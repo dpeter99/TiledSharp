@@ -8,3 +8,5 @@ test-results
 *.user
 *.suo
 .vs
+
+bin-int/
