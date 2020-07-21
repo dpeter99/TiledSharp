@@ -19,7 +19,7 @@ project "TiledSharp"
 		"System.Xml",
 	}
 
-	dotnetframework  "4.5"
+	dotnetframework  "netstandard2.1"
 
 	architecture "x86_64"
 	
